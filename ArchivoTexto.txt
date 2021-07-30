@@ -1,5 +1,3 @@
 Este es un archivo de texto plano 
 creado para practica
 del curso de Git y Github de Platzi
-
-el habla de su vida y maestria
