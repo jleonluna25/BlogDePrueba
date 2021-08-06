@@ -4,3 +4,18 @@ body {
     text-align: center;
     color: cyan;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.cabecera {
+    color: springgreen;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 2px solid white;
+}
