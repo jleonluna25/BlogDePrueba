@@ -6,8 +6,8 @@ body {
 
 a {
     text-decoration: none;
-    color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-family: comic sans;
 }
 a:hover {
     text-decoration: underline;
