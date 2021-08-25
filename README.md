@@ -6,4 +6,4 @@ Fragmento de Ciclo. Ropa interior - Lina Tono_
 Un archivo HTML simple que simula una entrada de blog.
 [Ac&aacute;](https://www.planetadelibros.com.co/libro-ropa-interior/291901) pueden comprarlo.
 
-`Esto si no debe tener ning&uacute;n sentido.`
+`Esto si no debe tener ningún sentido.`
