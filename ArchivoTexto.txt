@@ -3,3 +3,6 @@ creado para practica
 del curso de Git y Github de Platzi
 aca agrego una linea nueva para 
 realizar mi primer pull request
+
+
+1era en main para "rebase".
