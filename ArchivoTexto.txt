@@ -4,7 +4,10 @@ del curso de Git y Github de Platzi
 aca agrego una linea nueva para 
 realizar mi primer pull request
 
-
 1era modificación en main para "rebase".
 
 2da mod. en main para rebase.
+1era modificación en rama "errores".
+
+2da mod. en rama "errores".
+
